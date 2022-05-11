@@ -1,0 +1,21 @@
+a{
+    color: red;
+    background-color: black;
+    font-size: 50px;
+    text-decoration: none;
+    }
+    a:hover{
+        color: aqua;
+        background-color: green;
+    }
+
+    a:active{
+        color: blueviolet;
+    }
+    a:visited{
+        color: cyan;
+    }
+    /* Mouse ta click diye dore rakhle color chnage hobe */
+    
+    /* Link a visit korar por color change hobe */
+    
